@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 4}
-  m_MinSize: {x: 950, y: 548}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -163,10 +163,10 @@ MonoBehaviour:
     y: 30
     width: 1505
     height: 808
-  m_MinSize: {x: 1030, y: 498}
-  m_MaxSize: {x: 20014, y: 14048}
+  m_MinSize: {x: 1032, y: 498}
+  m_MaxSize: {x: 20016, y: 14048}
   vertical: 0
-  controlID: 27
+  controlID: 10
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -188,10 +188,10 @@ MonoBehaviour:
     y: 0
     width: 1185
     height: 808
-  m_MinSize: {x: 753, y: 498}
-  m_MaxSize: {x: 16012, y: 14048}
+  m_MinSize: {x: 755, y: 498}
+  m_MaxSize: {x: 16014, y: 14048}
   vertical: 1
-  controlID: 28
+  controlID: 11
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -215,10 +215,10 @@ MonoBehaviour:
     y: 0
     width: 1185
     height: 534
-  m_MinSize: {x: 753, y: 224}
-  m_MaxSize: {x: 16012, y: 4024}
+  m_MinSize: {x: 755, y: 224}
+  m_MaxSize: {x: 16014, y: 4024}
   vertical: 0
-  controlID: 29
+  controlID: 12
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -238,8 +238,8 @@ MonoBehaviour:
     y: 0
     width: 206
     height: 534
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 224}
+  m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -494,8 +494,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 282d0000
-      m_LastClickedID: 11560
+      m_SelectedIDs: d0fbffff
+      m_LastClickedID: -1072
       m_ExpandedIDs: d2fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -664,19 +664,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs/walls
+    - Assets/Prefabs/obstacles
   m_ViewMode: 1
   m_StartGridSize: 53
   m_LastFolders:
-  - Assets/Prefabs/walls
+  - Assets/Prefabs/obstacles
   m_LastFoldersGridSize: 53
-  m_LastProjectPath: C:\Users\dell\Desktop\Endless flying witch2
+  m_LastProjectPath: C:\Users\dell\Desktop\FlyingWitchRepo\Endless flying witch2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 962c0000
-    m_LastClickedID: 11414
+    m_SelectedIDs: 142a0000
+    m_LastClickedID: 10772
     m_ExpandedIDs: 00000000962700004a2a0000502b00006c2b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -732,7 +732,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300005c2f0000682f000000000000f42f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
